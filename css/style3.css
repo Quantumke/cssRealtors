@@ -10,10 +10,11 @@
 }
 
 .container {
-	height: 100vh;
-	overflow: hidden;
+
+	overflow-y:visible;
 	position: relative;
-	background: rgba(146, 137, 183, 0.5);
+    overflow-x: hidden;
+
 }
 
 .logo-img {
